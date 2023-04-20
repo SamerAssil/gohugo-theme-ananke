@@ -1,0 +1,68 @@
+[more]
+# other = "More"
+other = "المزيد"
+
+[allTitle]
+# other = "All {{.Title }}"
+other = "كل {{.Title }}"
+
+[recentTitle]
+# other = "Recent {{.Title }}"
+other = "السابق {{.Title }}"
+
+[readMore]
+# other = "read more"
+other = "قراءة المزيد"
+
+[by]
+# other = "By"
+other = "بواسطة"
+
+[whatsInThis]
+# other = "What's in this {{ .Type }}"
+other = "ماذا يوجد في  {{ .Type }}"
+
+[related]
+# other = "Related"
+other = "مرتبط"
+
+[yourName]
+# other = "Your Name"
+other = "اسمك"
+
+[emailAddress]
+# other = "Email Address"
+other = "الايميل"
+
+[message]
+# other = "Message"
+other = "رسالة"
+
+[emailRequiredNote]
+# other = "An email address is required."
+other = "الايميل مطلوب"
+
+[send]
+# other = "Send"
+other = "ارسال"
+
+[taxonomyPageList]
+# other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+
+[readingTime]
+# one = "One minute read"
+# other = "{{ .Count }} minutes read"
+one = "دقيقة قراءة واحدة"
+other = "{{ .Count }} دقائق قراءة"
+
+[wordCount]
+# one = "One word"
+# other = "{{ .Count }} words"
+one = "كلمة واحدة"
+other = "{{ .Count }} كلمة"
+
+[pageTitle]
+# other = "{{ .Name }} page"
+other = "{{ .Name }} صفحة"
+

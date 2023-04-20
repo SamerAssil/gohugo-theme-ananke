@@ -1,3 +1,22 @@
 module:
   hugoVersion:
     min: "0.84.0"
+
+menu:
+  main:
+  - name: أساسيات دلفي
+    pageRef: /
+    weight: 10
+  - name: افكار وحيل
+    pageRef: /tips
+    weight: 20
+
+related:
+  includeNewer: false
+  indices:
+  - name: keywords
+    weight: 100
+  - name: date
+    weight: 10
+  threshold: 80
+  toLower: false
