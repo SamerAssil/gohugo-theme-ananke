@@ -2,6 +2,7 @@ pre, .pre  {
   overflow-x: auto;
   overflow-y: hidden;
   overflow:   scroll;
+  direction: ltr;
 }
 
 
@@ -11,7 +12,7 @@ pre  code {
   white-space: pre;
   font-size: .875rem;
   line-height: 2;
-
+  direction: ltr;
 }
 
 pre {
@@ -21,4 +22,5 @@ pre {
 
   hyphens: none;
   position: relative;
+  direction: ltr;
 }
